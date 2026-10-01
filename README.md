@@ -3,6 +3,9 @@
 My experimental "Blog" via `README.md` git. Can be read here:
 [Codeberg.org](https://codeberg.org/jedie/blog) | [OpenCommit.eu](https://opencommit.eu/jedie/blog) | [GitLab](https://gitlab.com/jedie/blog) | [Radicle - jedie.radicle.garden](https://radicle.network/nodes/jedie.radicle.garden/rad:z4TvU5maER5g2uyT7LEvuGg4RsKA6)
 
+You find me also on Mastodon: [@jedie@chaos.social](https://chaos.social/@jedie)
+
+
 ## 2026-10-01 - Starting a blog via git README.md
 
 This is just an experiment. Why not blogging just by filling out the readme of a Git repository?
@@ -50,5 +53,7 @@ Now you can find my on these place**s**:
 * [**Radicle**](https://radicle.network/install): [did:key:z6MkfvNUuBCwRtNZwANEAGd4vaTzyuZXMKfiSyjoBALga934](https://radicle.network/nodes/iris.radicle.network/users/did%3Akey%3Az6MkfvNUuBCwRtNZwANEAGd4vaTzyuZXMKfiSyjoBALga934) | [jedie.radicle.garden](https://radicle.network/nodes/jedie.radicle.garden)
 
 That is why there will probably be a lot of broken links pointing to my GitHub account for quite some time!
+
+see also: https://chaos.social/@jedie/117188977693091693
 
 #GitHubSuspendedMe #GiveUpGitHub
